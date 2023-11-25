@@ -7,7 +7,8 @@
 <!---
 EmanueleCoradin/EmanueleCoradin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanueleCoradin)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleCoradin&langs_count=8&hide=html&size_weight=0.2&count_weight=0.8)
