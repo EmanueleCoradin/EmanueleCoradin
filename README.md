@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanueleCoradin)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleCoradin&langs_count=10&size_weight=0.1&hide=Gnuplot,html,scss,Dockerfile&count_weight=0.9&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleCoradin&langs_count=8&size_weight=0.1&hide=Gnuplot,html,scss,Dockerfile&count_weight=0.9&theme=radical)
