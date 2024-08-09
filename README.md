@@ -1,5 +1,5 @@
 🎓| Physics of Data Master's student in Padova  <br />
-🚀| Interested in fundamental interactions, quantum information, artificial intelligence and machine learning<br />
+🚀| Interested in particle physics, quantum information and machine learning<br />
 🔍| Main project: developing a spiking neural network for pattern recognition in CMS tracker data  <br />
 
 <!---
