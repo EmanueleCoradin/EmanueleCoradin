@@ -1,6 +1,4 @@
 🎓| Physics of Data Master's student in Padova  <br />
-🚀| Interested in particle physics, quantum information and machine learning<br />
-🔍| Main project: developing a spiking neural network for pattern recognition in CMS tracker data  <br />
 
 <!---
 EmanueleCoradin/EmanueleCoradin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
